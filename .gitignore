@@ -25,3 +25,6 @@ hs_err_pid*
 .project
 .settings/
 target/
+
+# Add mashery sdk bytecode
+!sdk/*.jar

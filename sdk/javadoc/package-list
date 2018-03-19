@@ -1,0 +1,14 @@
+com.mashery.http
+com.mashery.http.client
+com.mashery.http.io
+com.mashery.http.server
+com.mashery.trafficmanager.cache
+com.mashery.trafficmanager.debug
+com.mashery.trafficmanager.event.listener
+com.mashery.trafficmanager.event.model
+com.mashery.trafficmanager.event.processor.model
+com.mashery.trafficmanager.model.auth
+com.mashery.trafficmanager.model.core
+com.mashery.trafficmanager.model.oauth
+com.mashery.trafficmanager.processor
+com.mashery.util.string

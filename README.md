@@ -11,8 +11,8 @@ Collection of classes which can be used as Processors in Mashery
     3. `mvn install:install-file -Dfile=com.mashery.http_1.0.0.v20130130-0044.jar -DgroupId=com.mashery -DartifactId=http -Dversion=1.0.0.v20130130-0044 -Dpackaging=jar -DgeneratePom=true`
     4. `mvn install:install-file -Dfile=com.mashery.trafficmanager.sdk_1.2.0.v20170407-0520.jar -DgroupId=com.mashery -DartifactId=trafficmanager -Dversion=1.2.0.v20170407-0520 -Dpackaging=jar -DgeneratePom=true`
     5. `mvn install:install-file -Dfile=com.mashery.util_1.0.0.v20130214-0015.jar -DgroupId=com.mashery -DartifactId=util -Dversion=1.0.0.v20130214-0015 -Dpackaging=jar -DgeneratePom=true`
-3. Return to root of this folder `cd ..`
-4. Run `mvn install`
+3. Return to root of this repository (`cd ..`)
+4. Run `mvn install` to install packages from repository
 
 
 ## How to

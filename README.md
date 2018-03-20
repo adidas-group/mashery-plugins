@@ -30,7 +30,7 @@ Collection of classes which can be used as Processors in Mashery
   - `whitelist`: list of allowed IP addresses separated by colon.
   - `blacklist`: list of restricted IP addresses separated by colon.
   - IP Address can be:
-    1. simple `192.168.1.1`
+    1. single `192.168.1.1`
     2. subnet `192.168.2.0/24`
     3. wildcard `192.168.3.*`
   - example:

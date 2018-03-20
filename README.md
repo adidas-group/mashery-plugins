@@ -1,6 +1,8 @@
 # Mashery Plugins (Processors)
 
-## Installation
+Collection of classes which can be used as Processors in Mashery
+
+## Installation
 
 1. Install [maven](https://maven.apache.org/install.html)
 2. Install mashery sdk

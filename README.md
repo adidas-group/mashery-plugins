@@ -36,8 +36,8 @@ Collection of classes which can be used as Processors in Mashery
   - example:
 
 ```
-whitelist: 192.168.1.1,192.168.2.0/24,192.168.3.*
-blacklist: 192.168.1.3,192.168.4.0/24,192.168.5.*
+whitelist: 192.168.1.1, 192.168.2.0/24, 192.168.3.*
+blacklist: 192.168.1.3, 192.168.4.0/24, 192.168.5.*
 ```
 
 ## Tests
